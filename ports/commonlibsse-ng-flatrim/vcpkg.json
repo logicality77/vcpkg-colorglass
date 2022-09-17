@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
   "name": "commonlibsse-ng-flatrim",
-  "version-semver": "3.4.0",
-  "port-version": 2,
+  "version-semver": "3.5.0",
+  "port-version": 0,
   "description": "A reverse engineered resource for developing SKSE plugins, supporting portable plugins that work across AE, SE, and VR.",
   "homepage": "https://github.com/CharmedBaryon/CommonLibSSE",
   "license": "MIT",
@@ -12,9 +12,8 @@
       "name": "vcpkg-cmake-config",
       "host": true
     },
-    "fast-cpp-csv-parser",
     "fmt",
-    "rsm-binary-io",
+    "rapidcsv",
     "spdlog",
     "xbyak"
   ]
