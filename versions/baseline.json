@@ -121,8 +121,8 @@
             "port-version": 0
         },
         "skse": {
-            "baseline": "2.1.5",
-            "port-version": 1
+            "baseline": "2.2.3",
+            "port-version": 0
         },
         "tsl-hat-trie": {
             "baseline": "0.6.0",
