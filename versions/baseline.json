@@ -57,7 +57,7 @@
             "port-version": 1
         },
         "f4se": {
-            "baseline": "0.6.21",
+            "baseline": "0.6.23",
             "port-version": 0
         },
         "fully-dynamic-game-engine": {
