@@ -13,7 +13,7 @@
             "port-version": 2
         },
         "commonlibf4": {
-            "baseline": "2021-12-24",
+            "baseline": "2022-10-17",
             "port-version": 0
         },
         "commonlibsse": {
@@ -57,7 +57,7 @@
             "port-version": 1
         },
         "f4se": {
-            "baseline": "0.6.21",
+            "baseline": "0.6.23",
             "port-version": 0
         },
         "fully-dynamic-game-engine": {
@@ -121,8 +121,8 @@
             "port-version": 0
         },
         "skse": {
-            "baseline": "2.1.5",
-            "port-version": 1
+            "baseline": "2.2.3",
+            "port-version": 0
         },
         "tsl-hat-trie": {
             "baseline": "0.6.0",
