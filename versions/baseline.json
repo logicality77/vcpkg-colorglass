@@ -12,6 +12,10 @@
             "baseline": "1.6.353",
             "port-version": 2
         },
+        "champollion": {
+            "baseline": "1.1.0",
+            "port-version": 0
+        },
         "commonlibf4": {
             "baseline": "2022-10-17",
             "port-version": 0
