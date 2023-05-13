@@ -21,19 +21,19 @@
             "port-version": 0
         },
         "commonlibsse": {
-            "baseline": "2022-10-14",
+            "baseline": "2023-04-24",
             "port-version": 0
         },
         "commonlibsse-ng": {
-            "baseline": "3.6.0",
+            "baseline": "3.7.0",
             "port-version": 0
         },
         "commonlibsse-ng-ae": {
-            "baseline": "3.6.0",
+            "baseline": "3.7.0",
             "port-version": 0
         },
         "commonlibsse-ng-flatrim": {
-            "baseline": "3.6.0",
+            "baseline": "3.7.0",
             "port-version": 0
         },
         "commonlibsse-ng-prebuilt": {
@@ -41,24 +41,24 @@
             "port-version": 1
         },
         "commonlibsse-ng-se": {
-            "baseline": "3.6.0",
+            "baseline": "3.7.0",
             "port-version": 0
         },
         "commonlibsse-ng-vr": {
-            "baseline": "3.6.0",
+            "baseline": "3.7.0",
             "port-version": 0
         },
         "commonlibsse-po3-ae": {
-            "baseline": "2022-11-16",
+            "baseline": "2023-05-11",
             "port-version": 0
         },
         "commonlibsse-po3-se": {
-            "baseline": "2022-11-16",
+            "baseline": "2023-05-11",
             "port-version": 0
         },
         "commonlibvr": {
-            "baseline": "2022-11-16",
-            "port-version": 1
+            "baseline": "2023-05-12",
+            "port-version": 0
         },
         "f4se": {
             "baseline": "0.6.23",
